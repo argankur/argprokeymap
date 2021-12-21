@@ -1,8 +1,8 @@
 {
     "name": "argprokeymap",
+    "publisher": "AnkurGoyal",
     "displayName": "argprokeymap",
-    "publisher": "argankur",
-    "description": "my custom keymap",
+    "description": "this is a customised keymap by Ankur",
     "version": "0.0.1",
     "engines": {
         "vscode": "^1.56.0"
@@ -10,6 +10,20 @@
     "categories": [
         "Keymaps"
     ],
+    "keywords": [
+        "keymap",
+        "slickedit",
+        "slickedit pro",
+        "slickedit keymap",
+        "argpro",
+        "argprokeymap",
+        "AnkurGoyal"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/argankur/argprokeymap.git"
+    },
+
     "contributes": {
         "keybindings":
         [
