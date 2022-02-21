@@ -151,6 +151,11 @@
             },
             {
                 "key": "ctrl+oem_period",
+                "command": "-editor.action.quickFix",
+                "when": "editorHasCodeActionsProvider && editorTextFocus && !editorReadonly"
+            },
+            {
+                "key": "ctrl+oem_period",
                 "command": "-problems.action.showQuickFixes",
                 "when": "problemFocus"
             },
