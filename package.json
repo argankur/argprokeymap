@@ -69,11 +69,6 @@
                 "when": "reference-list.hasResult && references-view.canNavigate"
             },
             {
-                "key": "ctrl+alt+k",
-                "command": "bookmarks.toggle",
-                "when": "editorTextFocus"
-            },
-            {
                 "key": "ctrl+n",
                 "command": "editor.action.nextSelectionMatchFindAction",
                 "when": "editorFocus"
